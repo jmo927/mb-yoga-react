@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+.nav-link {
+    font-family: 'Raleway', sans-serif;
+    margin: 25px 5px;
+    display: inline;
+    color: #f7f7f2;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: #0f0f0f;
+    cursor: pointer;
+}

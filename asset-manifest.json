@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mb-yoga-react/static/css/main.2cce8147.chunk.css",
+    "main.js": "/mb-yoga-react/static/js/main.b54f717c.chunk.js",
+    "main.js.map": "/mb-yoga-react/static/js/main.b54f717c.chunk.js.map",
+    "runtime~main.js": "/mb-yoga-react/static/js/runtime~main.00c0554f.js",
+    "runtime~main.js.map": "/mb-yoga-react/static/js/runtime~main.00c0554f.js.map",
+    "static/js/2.b41502e9.chunk.js": "/mb-yoga-react/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/mb-yoga-react/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/mb-yoga-react/index.html",
+    "precache-manifest.d77bafeea5da82ccf1741c5aef4f6f1b.js": "/mb-yoga-react/precache-manifest.d77bafeea5da82ccf1741c5aef4f6f1b.js",
+    "service-worker.js": "/mb-yoga-react/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/mb-yoga-react/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/mb-yoga-react/static/media/logo.5d5d9eef.svg"
+  }
+}

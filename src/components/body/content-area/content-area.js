@@ -5,6 +5,7 @@ import Children from '../Children/children';
 import Schedule from '../Schedule/schedule';
 import Contact from '../Contact/contact';
 import "./content-area.css";
+import motivation from "../../../assets/motivation.jpeg";
 
 
 
@@ -24,9 +25,13 @@ class ContentArea extends Component {
         return (
             <>
                 <div id="content-area">
+                    <img src={motivation} className="motivation" alt="a yoga pose."  />
                     <About />
+                    <img src={motivation} className="motivation" alt="a yoga pose."  />
                     <Children />
+                    <img src={motivation} className="motivation" alt="a yoga pose."  />
                     <Schedule />
+                    <img src={motivation} className="motivation" alt="a yoga pose."  />
                     <Contact />
                 </div>
 

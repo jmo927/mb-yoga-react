@@ -15,11 +15,11 @@ class NavWrapper extends Component {
         status: ""
     }
 
-    testFunctionTwo = (e) => {
+    // testFunctionTwo = (e) => {
 
-        // you know, function stuff
+    //     // you know, function stuff
 
-    } //end function()
+    // } //end function()
 
     
 

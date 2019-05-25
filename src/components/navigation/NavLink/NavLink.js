@@ -1,6 +1,5 @@
-
 import React from "react";
-import "./style.css"
+import "./NavLink.css"
 
 // const styles = {
 //     heading: {
@@ -10,10 +9,21 @@ import "./style.css"
 
 const NavLink = function (props) {
 
+
+    function jump(e) {
+        e.preventDefault();
+
+        // document.getElementById(props.link).scrollIntoView({behavior: "smooth", block: "start"})
+
+        document.getElementById("content-area").scrollTop = document.getElementById(props.link).offsetTop;
+    }
+
     return (
-        <div className="nav-link">
-            {props.text}       
-        </div>
+        <>
+            <div className="nav-link" onClick={jump}>
+                {props.text}
+            </div>    
+        </>
     )
 }
 

@@ -1,36 +1,25 @@
 import React, { Component } from 'react';
 
 import NavLink from '../NavLink/NavLink';
-import "./style.css";
+import NavLogo from '../NavLogo/NavLogo';
+import "./NavWrapper.css";
 
-
-
-const testFunction = function (array) {
-    // you know, function stuff
-}
 
 class NavWrapper extends Component {
 
     state = {
         status: ""
-    }
-
-    // testFunctionTwo = (e) => {
-
-    //     // you know, function stuff
-
-    // } //end function()
-
-    
+    }    
 
     render() {
         return (
-            <>
-                <NavLink href="#about" text="About"/>
-                <NavLink href="#child-yoga" text="Child Yoga"/>
-                <NavLink href="#schedule" text="Schedule"/>
-                <NavLink href="#contact" text="Contact"/>
-            </>
+            <div id="nav-wrap">
+                <NavLink link="about" text="About"/>
+                <NavLink link="child-yoga" text="Child Yoga"/>
+                <NavLogo />
+                <NavLink link="schedule" text="Schedule"/>
+                <NavLink link="contact" text="Contact"/>
+            </div>
         )
     }
 }

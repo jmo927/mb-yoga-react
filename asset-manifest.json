@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/mb-yoga-react/static/css/main.2cce8147.chunk.css",
-    "main.js": "/mb-yoga-react/static/js/main.b54f717c.chunk.js",
-    "main.js.map": "/mb-yoga-react/static/js/main.b54f717c.chunk.js.map",
+    "main.css": "/mb-yoga-react/static/css/main.25264792.chunk.css",
+    "main.js": "/mb-yoga-react/static/js/main.3039e5d3.chunk.js",
+    "main.js.map": "/mb-yoga-react/static/js/main.3039e5d3.chunk.js.map",
     "runtime~main.js": "/mb-yoga-react/static/js/runtime~main.00c0554f.js",
     "runtime~main.js.map": "/mb-yoga-react/static/js/runtime~main.00c0554f.js.map",
-    "static/js/2.b41502e9.chunk.js": "/mb-yoga-react/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/mb-yoga-react/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.3f109a7e.chunk.js": "/mb-yoga-react/static/js/2.3f109a7e.chunk.js",
+    "static/js/2.3f109a7e.chunk.js.map": "/mb-yoga-react/static/js/2.3f109a7e.chunk.js.map",
     "index.html": "/mb-yoga-react/index.html",
-    "precache-manifest.d77bafeea5da82ccf1741c5aef4f6f1b.js": "/mb-yoga-react/precache-manifest.d77bafeea5da82ccf1741c5aef4f6f1b.js",
+    "precache-manifest.d3f6037e0d901145cd841961c25929ee.js": "/mb-yoga-react/precache-manifest.d3f6037e0d901145cd841961c25929ee.js",
     "service-worker.js": "/mb-yoga-react/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/mb-yoga-react/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/mb-yoga-react/static/media/logo.5d5d9eef.svg"
+    "static/css/main.25264792.chunk.css.map": "/mb-yoga-react/static/css/main.25264792.chunk.css.map",
+    "static/media/email.png": "/mb-yoga-react/static/media/email.cc997802.png",
+    "static/media/insta.png": "/mb-yoga-react/static/media/insta.b473fcad.png",
+    "static/media/linkedin.png": "/mb-yoga-react/static/media/linkedin.c1a3ad44.png"
   }
 }

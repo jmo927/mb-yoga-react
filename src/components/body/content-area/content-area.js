@@ -2,11 +2,13 @@ import React, { Component } from 'react';
 
 import About from '../About/about';
 import Children from '../Children/children';
+import Classes from '../Classes/classes';
 import Schedule from '../Schedule/schedule';
 import Contact from '../Contact/contact';
-import "./content-area.css";
-import motivation from "../../../assets/motivation.jpeg";
+import Home from '../Home/home';
 
+import "./content-area.css";
+// import thejo from "../../../assets/thejo.jpg";
 
 
 class ContentArea extends Component {
@@ -25,13 +27,17 @@ class ContentArea extends Component {
         return (
             <>
                 <div id="content-area">
-                    <img src={motivation} className="motivation" alt="a yoga pose."  />
+                    {/* <img src={thejo} className="motivation" alt="a yoga pose."  /> */}
+                    <Home />
+
                     <About />
-                    <img src={motivation} className="motivation" alt="a yoga pose."  />
+                    
+                    <Classes />
+                    
                     <Children />
-                    <img src={motivation} className="motivation" alt="a yoga pose."  />
+                    
                     <Schedule />
-                    <img src={motivation} className="motivation" alt="a yoga pose."  />
+                    
                     <Contact />
                 </div>
 

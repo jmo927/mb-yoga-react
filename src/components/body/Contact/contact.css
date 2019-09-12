@@ -1,0 +1,22 @@
+.social-img {
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
+
+.social-img:hover {
+    cursor: pointer;
+    opacity: .5;
+}
+
+#contact {
+    text-align: center;
+}
+
+#social-wrapper {
+    padding: 20px;
+}
+
+#copyright {
+    font-size: 12px;
+}

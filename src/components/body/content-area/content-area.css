@@ -16,3 +16,15 @@
 .motivation {
     width: 100%;
 }
+
+.content-section {
+    display: none;
+}
+
+.active-area {
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}

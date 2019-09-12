@@ -10,7 +10,7 @@ import "./schedule.css"
 const Schedule = function (props) {
 
     return (
-        <div id="schedule">
+        <div id="schedule" className="content-section">
 
 
             <h1>Schedule</h1>

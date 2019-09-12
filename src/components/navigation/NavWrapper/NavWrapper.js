@@ -11,6 +11,8 @@ class NavWrapper extends Component {
         status: ""
     }    
 
+    
+
     render() {
         return (
             <div id="nav-wrap">

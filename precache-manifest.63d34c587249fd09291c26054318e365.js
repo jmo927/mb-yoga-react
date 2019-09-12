@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "599a290cd4b301b5cd197b760269779b",
+    "revision": "23d98d341b422b25ba5ed07a7819dd97",
     "url": "/mb-yoga-react/index.html"
   },
   {
-    "revision": "87eafaa43a0483cabf28",
-    "url": "/mb-yoga-react/static/css/main.2ac610aa.chunk.css"
+    "revision": "36e2da2103afed81b96b",
+    "url": "/mb-yoga-react/static/css/main.1e8859ae.chunk.css"
   },
   {
     "revision": "17bce499831bb90bd5ad",
     "url": "/mb-yoga-react/static/js/2.c1d83d88.chunk.js"
   },
   {
-    "revision": "87eafaa43a0483cabf28",
-    "url": "/mb-yoga-react/static/js/main.3b1237c9.chunk.js"
+    "revision": "36e2da2103afed81b96b",
+    "url": "/mb-yoga-react/static/js/main.ac6045e9.chunk.js"
   },
   {
     "revision": "b3a396c998f840e7e329",

@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/mb-yoga-react/static/css/main.1e8859ae.chunk.css",
-    "main.js": "/mb-yoga-react/static/js/main.ac6045e9.chunk.js",
-    "main.js.map": "/mb-yoga-react/static/js/main.ac6045e9.chunk.js.map",
+    "main.css": "/mb-yoga-react/static/css/main.d2157d52.chunk.css",
+    "main.js": "/mb-yoga-react/static/js/main.0d0993c9.chunk.js",
+    "main.js.map": "/mb-yoga-react/static/js/main.0d0993c9.chunk.js.map",
     "runtime~main.js": "/mb-yoga-react/static/js/runtime~main.00c0554f.js",
     "runtime~main.js.map": "/mb-yoga-react/static/js/runtime~main.00c0554f.js.map",
-    "static/js/2.c1d83d88.chunk.js": "/mb-yoga-react/static/js/2.c1d83d88.chunk.js",
-    "static/js/2.c1d83d88.chunk.js.map": "/mb-yoga-react/static/js/2.c1d83d88.chunk.js.map",
+    "static/js/2.44558a39.chunk.js": "/mb-yoga-react/static/js/2.44558a39.chunk.js",
+    "static/js/2.44558a39.chunk.js.map": "/mb-yoga-react/static/js/2.44558a39.chunk.js.map",
     "index.html": "/mb-yoga-react/index.html",
-    "precache-manifest.63d34c587249fd09291c26054318e365.js": "/mb-yoga-react/precache-manifest.63d34c587249fd09291c26054318e365.js",
+    "precache-manifest.8359f82a82fba8d7706dc6ec12a9f9c2.js": "/mb-yoga-react/precache-manifest.8359f82a82fba8d7706dc6ec12a9f9c2.js",
     "service-worker.js": "/mb-yoga-react/service-worker.js",
-    "static/css/main.1e8859ae.chunk.css.map": "/mb-yoga-react/static/css/main.1e8859ae.chunk.css.map",
+    "static/css/main.d2157d52.chunk.css.map": "/mb-yoga-react/static/css/main.d2157d52.chunk.css.map",
     "static/media/email.png": "/mb-yoga-react/static/media/email.cc997802.png",
     "static/media/headshot.JPG": "/mb-yoga-react/static/media/headshot.cde5e10e.JPG",
     "static/media/insta.png": "/mb-yoga-react/static/media/insta.b473fcad.png",
     "static/media/linkedin.png": "/mb-yoga-react/static/media/linkedin.c1a3ad44.png",
+    "static/media/mandala.png": "/mb-yoga-react/static/media/mandala.b886efaf.png",
     "static/media/thejo.jpg": "/mb-yoga-react/static/media/thejo.aaac13f2.jpg"
   }
 }

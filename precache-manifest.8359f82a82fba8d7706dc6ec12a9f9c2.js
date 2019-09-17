@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23d98d341b422b25ba5ed07a7819dd97",
+    "revision": "e30569519cba420a531066ef455a21cd",
     "url": "/mb-yoga-react/index.html"
   },
   {
-    "revision": "36e2da2103afed81b96b",
-    "url": "/mb-yoga-react/static/css/main.1e8859ae.chunk.css"
+    "revision": "27ae17225e1dcb37a8a5",
+    "url": "/mb-yoga-react/static/css/main.d2157d52.chunk.css"
   },
   {
-    "revision": "17bce499831bb90bd5ad",
-    "url": "/mb-yoga-react/static/js/2.c1d83d88.chunk.js"
+    "revision": "b8727cb21f2e9a30f6a3",
+    "url": "/mb-yoga-react/static/js/2.44558a39.chunk.js"
   },
   {
-    "revision": "36e2da2103afed81b96b",
-    "url": "/mb-yoga-react/static/js/main.ac6045e9.chunk.js"
+    "revision": "27ae17225e1dcb37a8a5",
+    "url": "/mb-yoga-react/static/js/main.0d0993c9.chunk.js"
   },
   {
     "revision": "b3a396c998f840e7e329",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c1a3ad44057df610974c24bf46f6cae9",
     "url": "/mb-yoga-react/static/media/linkedin.c1a3ad44.png"
+  },
+  {
+    "revision": "b886efaf5cceb9f54a641e8640208d4e",
+    "url": "/mb-yoga-react/static/media/mandala.b886efaf.png"
   },
   {
     "revision": "aaac13f220039336f8fcecdd77f1da78",

@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import About from '../About/about';
 import Children from '../Children/children';
 import Classes from '../Classes/classes';
-import Schedule from '../Schedule/schedule';
+import Wellness from '../Wellness/wellness';
 import Contact from '../Contact/contact';
 import Home from '../Home/home';
 
@@ -27,7 +27,7 @@ class ContentArea extends Component {
         return (
             <>
                 <div id="content-area">
-                    {/* <img src={thejo} className="motivation" alt="a yoga pose."  /> */}
+                
                     <Home />
 
                     <About />
@@ -36,11 +36,13 @@ class ContentArea extends Component {
                     
                     <Children />
                     
-                    <Schedule />
+                    <Wellness />
                     
                     <Contact />
-                </div>
 
+                    
+                </div>
+                
             </>
         )
     }

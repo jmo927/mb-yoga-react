@@ -8,9 +8,7 @@ const Home = function (props) {
     return (
         <div id="home" className="content-section active-area">
             <h1>Welcome to MB Yoga!</h1>
-            <img src={thejo} alt="Marybeth leading yoga at Josephenium Academy"/>
-
-            
+            <img src={thejo} alt="Marybeth leading yoga at Josephenium Academy" className="josephinum"/>
             
         </div>
     )

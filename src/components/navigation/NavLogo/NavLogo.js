@@ -1,5 +1,6 @@
 import React from "react";
 import "./NavLogo.css"
+import Mandala from "../../../assets/mandala.png"
 
 // const styles = {
 //     heading: {
@@ -11,8 +12,13 @@ const NavLogo = function (props) {
 
     return (
         <div id="nav-logo">
-            MB
+            <img src = {Mandala} alt = "Mandala Logo" id="mandala"/>
+            <div id="logo-sig">
+                {/* <div id="logo-text">MB Yoga</div> */}
+                MB Yoga
+            </div>
         </div>
+
     )
 }
 

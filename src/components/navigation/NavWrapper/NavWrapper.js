@@ -16,11 +16,18 @@ class NavWrapper extends Component {
     render() {
         return (
             <div id="nav-wrap">
-                <NavLink link="about" text="About"/>
-                <NavLink link="child-yoga" text="Child Yoga"/>
-                <NavLogo />
-                <NavLink link="schedule" text="Schedule"/>
-                <NavLink link="contact" text="Contact"/>
+                <div id="nav-logo-wrap"> 
+                    <NavLogo />
+                </div>
+                
+                <div id="nav-link-wrap">
+                    <NavLink link="about" text="About" classList="nav-link"/>
+                    <NavLink link="classes" text="Classes" classList="navi-link" />
+                    <NavLink link="child-yoga" text="Child Yoga" classList="nav-link"/>
+                    <NavLink link="wellness" text="Wellness" classList="nav-link"/>
+                    <NavLink link="contact" text="Contact" classList="nav-link"/>
+                </div>
+                
             </div>
         )
     }

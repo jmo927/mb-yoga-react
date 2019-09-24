@@ -1,6 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt');
+
 #nav-logo {
     font-size: 35px;
     color: #0f0f0f;
     display: inline;
     margin: auto 20px;
+    position: relative;
 }
+
+#mandala {
+    max-width: 100px;
+    /* position: absolute;
+    left: 0px;
+    top: 0px; */
+}
+
+#logo-sig {
+    position: fixed;
+    font-family: 'Rock Salt', sans-serif;   
+    top: 10px;
+    left: 35px;
+    /* transform: translate(-50%, -50%); */
+    /* max-width: 300px;  */
+}
+
+/* #logo-text {
+    position: relative;
+    left: 10px;
+    font-family: 'Rock Salt', sans-serif;
+} */

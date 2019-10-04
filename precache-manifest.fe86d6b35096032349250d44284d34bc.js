@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6400ccdef70ae95fa907ee8c5f83dda7",
+    "revision": "f13d0c13b9f226c4f0003a0efbfaa2bd",
     "url": "/mb-yoga-react/index.html"
   },
   {
-    "revision": "1ccdb67ae4ca8fc5f4d1",
-    "url": "/mb-yoga-react/static/css/main.ac114b36.chunk.css"
+    "revision": "305fe11f52d1fe2a9111",
+    "url": "/mb-yoga-react/static/css/main.c5749ed4.chunk.css"
   },
   {
-    "revision": "78a6cd956906c614b539",
-    "url": "/mb-yoga-react/static/js/2.254d3d58.chunk.js"
+    "revision": "8af44b6c866a572f64a2",
+    "url": "/mb-yoga-react/static/js/2.ad82ff11.chunk.js"
   },
   {
-    "revision": "1ccdb67ae4ca8fc5f4d1",
-    "url": "/mb-yoga-react/static/js/main.f4383020.chunk.js"
+    "revision": "305fe11f52d1fe2a9111",
+    "url": "/mb-yoga-react/static/js/main.f265c67b.chunk.js"
   },
   {
     "revision": "b3a396c998f840e7e329",
     "url": "/mb-yoga-react/static/js/runtime~main.00c0554f.js"
+  },
+  {
+    "revision": "24471749126511fb5a079abcf2a3b265",
+    "url": "/mb-yoga-react/static/media/circle.24471749.png"
   },
   {
     "revision": "6ce8f8670f6bb66bdf9320245139595d",
@@ -34,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b473fcad595f09b0afe1270d9016ac8c",
     "url": "/mb-yoga-react/static/media/insta.b473fcad.png"
+  },
+  {
+    "revision": "f2798cba57a339a1d3044c87fb6f3f82",
+    "url": "/mb-yoga-react/static/media/jo_logo.f2798cba.png"
   },
   {
     "revision": "50cb16024778b15df54dc53b7da088d0",

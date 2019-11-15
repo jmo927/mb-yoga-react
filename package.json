@@ -2,7 +2,7 @@
   "name": "mb-yoga-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://www.mbmooreyoga.com",
+  "homepage": "https://jmo927.github.io/mb-yoga-react/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
